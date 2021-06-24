@@ -3,7 +3,7 @@ soong_namespace {
 
 android_app_import {
 	name: "HotwordEnrollmentOKGoogleHEXAGON",
-	owner: "xiaomi",
+	owner: "realme",
 	apk: "proprietary/product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk",
 	presigned: true,
 	dex_preopt: {
@@ -15,7 +15,7 @@ android_app_import {
 
 android_app_import {
 	name: "HotwordEnrollmentXGoogleHEXAGON",
-	owner: "xiaomi",
+	owner: "realme",
 	apk: "proprietary/product/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk",
 	presigned: true,
 	dex_preopt: {
